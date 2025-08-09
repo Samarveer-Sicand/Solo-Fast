@@ -15,4 +15,4 @@ We are a team of passionate developers and problem-solvers working together to c
 - [ ] Backend: (To be updated)
 - [ ] Database: (To be updated)
 
-## 📂 Repository Structure  (To be updated)
+## 📂 Repository Structure  (To be updated).
